@@ -16,7 +16,7 @@ Bem-vindo ao **Meditracker**, uma aplicação Cross-Platform (Mobile e Web) para
 ---
 
 **Repositório:**
-git  <seu-link-git>
+git  <https://github.com/nauak-glitch/Meditracker>
 
 ## 📂 Onde estão os Documentos e Evidências?
 
