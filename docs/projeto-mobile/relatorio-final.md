@@ -1,5 +1,7 @@
 # 📝 Relatório Final de Desenvolvimento
 
+Drive: [https://drive.google.com/file/d/1RGLFvJLLDJ_mB9RbrXgZHig4NWMthx9m/view?usp=sharing]
+
 ## 1. Contexto do Projeto
 O Meditracker foi desenvolvido simulando um ambiente de 2026, utilizando as versões mais recentes do Expo (SDK 54).
 
