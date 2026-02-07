@@ -11,10 +11,10 @@
 
 | Campo | Informação |
 | :--- | :--- |
-| **Equipe** | Hugo Reis Santana | Kauan Gutierrez Santos Estacio |
-| **Matrícula** | 2023000121 | 2023004210 |
+| **Equipe** | Hugo Reis Santana e Kauan Gutierrez Santos Estacio |
+| **Matrícula** | 2023000121 , 2023004210 |
 | **Turma** | CCOMP 2023.1 |
-| **Email Institucional** | kauan.estacio063@academico.ifs.edu.br | hugo.santana014@academico.ifs.edu.br |
+| **Email Institucional** | kauan.estacio063@academico.ifs.edu.br , hugo.santana014@academico.ifs.edu.br |
 | **Link do Repositório** | [https://github.com/nauak-glitch/Meditracker] |
 | **Link do Vídeo Demo** | [https://drive.google.com/file/d/1RGLFvJLLDJ_mB9RbrXgZHig4NWMthx9m/view?usp=sharing] |
 
